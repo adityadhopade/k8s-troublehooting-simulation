@@ -1,7 +1,5 @@
 ## Prod Issue: CoreDNS CrashLoop on Startup 
 
-### [Issues are based on https://k8s-issues.purutuladhar.com/]
-
 ### What did Happen!?
 
 Team Added a Custom Rule in the Corefile which had the Invalid Syntax resulting ==> CoreDNS failed to Start ! 
